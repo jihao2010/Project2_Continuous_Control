@@ -111,8 +111,9 @@ The requirements.txt includes the followings
 Open the jupyter notebook with the following commands.
 
 ```bash
-git clone https://github.com/udacity/deep-reinforcement-learning.git
-cd deep-reinforcement-learning/python
+git clone https://github.com/jihao2010/Project2_Continuous_Control.git
+#git clone https://github.com/udacity/deep-reinforcement-learning.git
+#cd deep-reinforcement-learning/python
 jupyter notebook Continuous_Control.ipynb
 ```
 
